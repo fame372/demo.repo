@@ -1,4 +1,8 @@
 h1{
     color:red;
     padding:20px;
+    font-size: large;
+    margin-top: auto;
+    border: 10px solid red;
+    background-color: blue;
 }
